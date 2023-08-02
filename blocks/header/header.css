@@ -20,6 +20,12 @@
     gap: 5px;
 }
 
+.header__logo {
+    box-sizing: border-box;
+    min-height: 52px;
+    max-width: 176px;
+}
+
 .header_vk {}
 
 .header_vk-img {
