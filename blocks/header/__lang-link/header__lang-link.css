@@ -1,0 +1,19 @@
+.header__lang-link {
+    font-size: 24px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 1);
+    line-height: 28px;
+    font-style: normal;
+}
+
+.header__lang-link:hover {
+    opacity: 0.8;
+}
+
+@media screen and (max-width: 767px) {
+       
+    .header__lang-link {
+        font-size: 18px;
+        line-height: 20px;
+    }
+}
